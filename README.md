@@ -48,7 +48,3 @@
 Sou apaixonado por tecnologia, procuro participar de projetos onde eles possam gerar impacto positivo na vida das pessoas.
 
 <br>
-
-Confira um de meus projetos desenvolvidos, ele foi feito com reactjs, bootstrap e .NET 6 no backend:
-
-- [Plataforma para locutores](https://apresentacao.locucaomanager.com/)
