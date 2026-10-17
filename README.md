@@ -1,7 +1,5 @@
 ### Olá 👋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-melo-b3366356/)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelvilarino&layout=compact&theme=radical)](https://github.com/michaelvilarino/github-readme-stats)
 
 ### Tecnologias que uso no meu dia a dia
